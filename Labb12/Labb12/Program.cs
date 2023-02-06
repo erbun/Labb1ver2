@@ -3,7 +3,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Enter your string here:");
+        Console.WriteLine("Skriv in din sträng här:");
         string UserInput = Console.ReadLine();
 
         for (int Start = 0; Start < UserInput.Length - 1; Start++)
