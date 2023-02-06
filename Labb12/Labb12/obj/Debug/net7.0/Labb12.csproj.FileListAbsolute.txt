@@ -1,0 +1,15 @@
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\bin\Debug\net7.0\Labb12.exe
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\bin\Debug\net7.0\Labb12.deps.json
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\bin\Debug\net7.0\Labb12.runtimeconfig.json
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\bin\Debug\net7.0\Labb12.dll
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\bin\Debug\net7.0\Labb12.pdb
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.csproj.AssemblyReference.cache
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.AssemblyInfoInputs.cache
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.AssemblyInfo.cs
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.csproj.CoreCompileInputs.cache
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.dll
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\refint\Labb12.dll
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.pdb
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\Labb12.genruntimeconfig.cache
+C:\Users\erwin\OneDrive\Dokument\GitHub\Labb1ver2\Labb12\Labb12\obj\Debug\net7.0\ref\Labb12.dll
